@@ -7,5 +7,5 @@ function joinElements(array, joinString) {
   }
   return result + array[array.length-1];
 }
-
+//adding comment because i was struggling earlier
 console.log(joinElements(["h", "llo viol", "t"], "e"));
